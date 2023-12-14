@@ -98,7 +98,19 @@ Build highly available, scalable, resilient distributed applications using Go
   ```
 - Open the website: [http://localhost/](http://localhost/)
 
-
+### Our first service: the Broker
+- First create folder, init a main module and get third party packages
+```powershell
+$folderName = "broker-service"
+md $folderName
+cd $folderName
+go mod init $folderName
+md cmd/api
+ni ./cmd/api/main.go -type file -Value "package main`n`nfunc main() {`n`n}"
+go get github.com/go-chi/chi/v5
+go get github.com/go-chi/chi/v5/middleware
+go get github.com/go-chi/cors
+```
 
 
 
