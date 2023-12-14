@@ -79,9 +79,9 @@ Build highly available, scalable, resilient distributed applications using Go
 
 ### Asking for help
 
-
-
 ### Mistakes. We all make them
+
+
 
 
 
