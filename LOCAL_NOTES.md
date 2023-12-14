@@ -57,6 +57,11 @@ Build highly available, scalable, resilient distributed applications using Go
 - You want to make sure all the `Go: Install/Update Tools` are enabled
 - Suggestion: Also install extension: `gotemplate-syntax`
 
+### Installing JetBrains Toolbox (GoLand)
+- Setup for windows:
+  ```powershell
+  winget install -e --id JetBrains.Toolbox
+  ```
 
 
 
