@@ -86,8 +86,8 @@ Build highly available, scalable, resilient distributed applications using Go
 ### What we'll cover in this section
 > Setup of a very simple Microservice; the broker service in Docker
 
-
-
+### Setting up the front end
+[front-end folder](front-end)
 
 
 
