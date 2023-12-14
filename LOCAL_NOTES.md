@@ -70,8 +70,16 @@ Build highly available, scalable, resilient distributed applications using Go
   winget install -e --id GnuWin32.Make
   ```
 
-
 ### Installing Docker
+
+- Setup for windows:
+  ```powershell
+  winget install -e --id Docker.DockerDesktop
+  ```
+
+
+
+
 ### Asking for help
 ### Mistakes. We all make them
 
