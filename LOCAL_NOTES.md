@@ -81,16 +81,29 @@ Build highly available, scalable, resilient distributed applications using Go
 
 ### Mistakes. We all make them
 
-
-
-
-
-
-
-
-
-
 ## Section: Building a simple front end and one Microservice
+
+### What we'll cover in this section
+> Setup of a very simple Microservice; the broker service in Docker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Section: Building an Authentication Service
 ## Section: Building a Logger Service
 ## Section: Building a Mail Service
