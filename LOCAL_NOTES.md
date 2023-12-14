@@ -63,9 +63,14 @@ Build highly available, scalable, resilient distributed applications using Go
   winget install -e --id JetBrains.Toolbox
   ```
 
-
-
 ### Installing Make
+
+- Setup for windows:
+  ```powershell
+  winget install -e --id GnuWin32.Make
+  ```
+
+
 ### Installing Docker
 ### Asking for help
 ### Mistakes. We all make them
