@@ -41,12 +41,17 @@ Build highly available, scalable, resilient distributed applications using Go
 
 ### About me
 
-
-
-
-
-
 ### Installing Go
+
+- Setup for windows:
+  ```powershell
+  winget install -e --id GoLang.Go
+  ```
+
+
+
+
+
 ### Installing Visual Studio Code
 ### Installing Make
 ### Installing Docker
