@@ -87,11 +87,16 @@ Build highly available, scalable, resilient distributed applications using Go
 > Setup of a very simple Microservice; the broker service in Docker
 
 ### Setting up the front end
+
 [front-end folder](front-end)
 
+### Reviewing the front end code
 
-
-
+- Run the front-end:
+  ```powershell
+  go run ./cmd/web/.
+  ```
+- Open the website: [http://localhost/](http://localhost/)
 
 
 
